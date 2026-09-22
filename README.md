@@ -23,3 +23,6 @@ The part of my code that does the most and uses the other classes. Firstly it va
 
 **Session report**
 Final class that dont really do anything else than to print whatever the program tells it. So if the data is valid it prints that, and if not it prints invalid.
+
+
+I built the program like this so it was easier for me to understand python. I probably could have made it more advanced or ran multiple sessions at once generating more results but that was too complicated. It is a bit dumb of a program in it self but i learned alot by writing it and getting familiar with class structures and definitions.
