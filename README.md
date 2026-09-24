@@ -2,7 +2,7 @@
 # Repository for ACIT4420 assignment 1, smart fitness analyzer
 
 # Preface
-I decided to make this program pretty simple as i am not very experienced in scripting with python, i therefore took it more as a learning experience. Please give me feedback if there is something i should do differently! More of the code is explained in the code itself by comments.
+I decided to make this program pretty simple as i am not very experienced in scripting with python, i therefore took it more as a learning experience. Please give me feedback if there is something i should do differently! More of the code is explained in the code itself by comments. Used some visualcode copilot and claude.ai for debugging, not to write code itself.
 
 # Very simple program for running the fitness texts, and outputs them giving them a category for the amount of activity. 
 
